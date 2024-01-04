@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/285.0.0.17.119;FBPN/com.facebook.orca;FBLC/es_MX;FBBV/249466651;FBCR/TELCEL;FBMF/TCT;FBBD/TCT;FBDV/ALCATEL ONE TOUCH 7047A;FBSV/4.2.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.5,width=960,height=540};FB_FW/1;]
+[FBAN/FB4A;FBAV/346.0.0.29.119;FBBV/335950287;FBDM/{density=2.625,width=1080,height=1920};FBLC/in_IN;FBRV/337277111;FBCR/Vodaphone India;FBMF/Cool1 dual;FBBD/Cool1 dual;FBPN/com.facebook.katana;FBDV/Cool1 dual;FBSV/8.8.8;FBOP/5;FBCA/armeabi-v7a:armeabi;]
