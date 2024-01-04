@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/AXIS;FBMF/vivo;FBBD/vivo;FBDV/vivo Y20;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.29375,width=1080,height=2145};]
+[FBAN/Orca-Android;FBAV/336.0.0.13.142;FBPN/com.facebook.orca;FBLC/en_US;FBBV/327992372;FBCR/Vodafone idea;FBMF/OPPO;FBBD/OPPO;FBDV/CPH2455;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.75,width=720,height=1466};FB_FW/1;]
