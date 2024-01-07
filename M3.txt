@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/70.0.0.22.83;FBBV/26502135;FBDM/{density=1.0,width=800,height=1232};FBLC/en_US;FBCR/Airtel Idea;FBMF/ECS;FBBD/JP;FBPN/com.facebook.katana;FBDV/TR10CS1;FBSV/4.4.2;FBOP/1;FBCA/x86:armeabi-v7a;]
+[FBAN/FB4A;FBAV/306.1.0.40.119;FBBV/273921910;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/274807707;FBCR/Claro;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto e5 plus;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
