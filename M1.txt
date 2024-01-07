@@ -1,1 +1,1 @@
-[FBAN/MessengerDesktop;FBAV/97.11.116;FBBV/283083801;FBDV/high;FBSN/darwin;FBSV/10.16.0;FBSS/1;FBID/desktop;FBLC/en_GB;FBOP/0;FBWS/0;MDBeta/0;MDMas/0]
+[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748110;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/A33f;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
