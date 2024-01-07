@@ -1,1 +1,1 @@
-[FBAN/EMA;FBBV/538547666;FBAV/382.0.0.11.115;FBDV/X6816;FBSV/12;FBCX/notifications_push_client_sync_graphql;FBDM/{density=2.0,width=720,height=1193}]
+[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/AXIS;FBMF/vivo;FBBD/vivo;FBDV/vivo Y20;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.29375,width=1080,height=2145};]
