@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/341.0.0.6.237;FBPN/com.facebook.orca;FBLC/en_US;FBBV/336996392;FBCR/JIO;FBMF/OPPO;FBBD/OPPO;FBDV/CPH2127;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]'
+[FBAN/EMA;FBBV/538547666;FBAV/382.0.0.11.115;FBDV/X6816;FBSV/12;FBCX/notifications_push_client_sync_graphql;FBDM/{density=2.0,width=720,height=1193}]
