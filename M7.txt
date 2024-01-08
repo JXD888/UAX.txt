@@ -1,0 +1,1 @@
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097182;FBDM/{density=1.5,width=1920,height=1128};FBLC/en_US;FBCR/;FBMF/FUHU;FBBD/DMTAB;FBPN/com.facebook.katana;FBDV/DMTAB-IN08A;FBSV/4.4.2;nullFBCA/x86:armeabi-v7a;]
