@@ -1,1 +1,1 @@
-[FBAN/MessengerLite;FBAV/312.0.0.8.106;FBPN/com.facebook.mlite;FBLC/in_ID;FBBV/431836095;FBCR/Airtel;FBMF/ADJ;FBBD/ADJ;FBDV/ADJ;FBSV/4.0.3;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=768,height=976};]
+[FBAN/FB4A;FBAV/416.0.0.29.88;FBBV/55437817;FBDM/{density=1.5,width=1080,height=720};FBLC/en_US;FBCR/VodaPhone idea;FBMF/tecno;FBBD/tecno;FBPN/com.facebook.katana;FBDV/TECNO KG8;FBSV/8.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
