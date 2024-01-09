@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/416.0.0.29.88;FBBV/55437817;FBDM/{density=1.5,width=1080,height=720};FBLC/en_US;FBCR/Telstra Mobile;FBMF/tecno;FBBD/tecno;FBPN/com.facebook.katana;FBDV/TECNO KG8;FBSV/8.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097182;FBDM/{density=1.5,width=1920,height=1128};FBLC/en_US;FBCR/Airtel;FBMF/FUHU;FBBD/DMTAB;FBPN/com.facebook.katana;FBDV/DMTAB-IN08A;FBSV/4.4.2;nullFBCA/x86:armeabi-v7a;]
