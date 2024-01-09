@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748054;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/IRL;FBMF/bq;FBBD/bq;FBPN/com.facebook.katana;FBDV/Aquaris E5;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/3.9;FBBV/666397;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Airtel;FBPN/com.facebook.katana;FBDV/SGH-I747M;FBSV/4.3;FBCA/armeabi-v7a:armeabi;]
