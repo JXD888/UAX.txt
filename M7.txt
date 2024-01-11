@@ -1,1 +1,1 @@
-[FBAN/OculusHorizon;FBAV/59.0.0.15.313;FBBV/20097190;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/AT&amp-T;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/Z812;FBSV/5.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/248.1.0.44.116;FBBV/184540683;FBDM/{density=4.0,width=1440,height=2368};FBLC/en_IN;FBRV/0;FBCR/Vodafone In;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto Z (2);FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
