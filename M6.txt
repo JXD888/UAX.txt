@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/245.0.0.39.118;FBBV/180475968;FBDM/{density=1.7,width=720,height=1280};FBLC/en_US;FBRV/0;FB_FW/2;FBCR/UNEFON 4G;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto C Plus;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/407.0.0.30.97;FBPN/com.facebook.katana;FBLC/en_US;FBBV/458543253;FBCR/UNEFON 4G;FBMF/motorola;FBBD/motorola;FBDV/moto e(7i) power;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.75,width=720,height=1472};FB_FW/1;FBRV/0;]
