@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748054;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/VODAFONE IN;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/HM 1S;FBSV/4.4.4;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/263.0.0.46.121;FBBV/205281663;FBDM/{density=2.0,width=720,height=1187};FBLC/en_US;FBRV/206347851;FBCR/Metro by T-Mobile;FBMF/LGE;FBBD/MetroPCS;FBPN/com.facebook.katana;FBDV/LGMS210;FBSV/7.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
