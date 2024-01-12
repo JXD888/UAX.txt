@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/429.0.0.27.114;FBBV/444810901;FBDM/{density=2.75,width=1080,height=2030};FBLC/en_US;FBRV/444810901;FBCR/T-Mobile CZ;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 5 Plus;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097196;FBDM/{density=3.0,width=1080,height=1776};FBLC/en_US;FBCR/Airtel;FBMF/Qisda;FBBD/Kogan;FBPN/com.facebook.katana;FBDV/Agora 4G Pro;FBSV/5.0.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]
