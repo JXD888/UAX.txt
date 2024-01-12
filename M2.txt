@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/399.0.0.24.93;FBBV/440587317;FBDM/{density=2.0,width=720,height=1440};FBLC/en_US;FBRV/444131581;FBCR/XL Axiata;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix X653C;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/429.0.0.27.114;FBBV/444810901;FBDM/{density=2.75,width=1080,height=2030};FBLC/en_US;FBRV/444810901;FBCR/T-Mobile CZ;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 5 Plus;FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
