@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/336.0.0.13.142;FBPN/com.facebook.orca;FBLC/en_US;FBBV/327992372;FBCR/Vodafone idea;FBMF/OPPO;FBBD/OPPO;FBDV/CPH2455;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=1.75,width=720,height=1466};FB_FW/1;]
+[FBAN/FB4A;FBAV/199.0.0.32.118;FBBV/265171049;FBDM/{density=2.75,width=1080,height=2130};FBLC/en_GB;FBRV/172446695;FBCR/Vodafone BD;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi Note 8;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
