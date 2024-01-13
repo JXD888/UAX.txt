@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748051;FBDM/{density=1.5,width=540,height=960};FBLC/en_US;FBCR/;FBMF/Enspert;FBBD/WIKO;FBPN/com.facebook.katana;FBDV/CINK PEAX 2;FBSV/4.1.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/353.0.0.34.116;FBBV/349723324;FBDM/{density=1.875,width=720,height=1475};FBLC/en_US;FBRV/351594825;FBCR/Banglalink;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2026;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
