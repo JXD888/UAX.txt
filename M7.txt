@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/161.0.0.35.93;FBBV/94117312;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBRV/94628452;FBCR/;FBMF/Vodafone Idea;FBBD/Vodafone;FBPN/com.facebook.katana;FBDV/Vodafone Smart ultra 6;FBSV/6.0.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097171;FBDM/{density=1.5,width=480,height=800};FBLC/en_US;FBCR/TIGO;FBMF/Elite 4.0S;FBBD/Elite 4.0S;FBPN/com.facebook.katana;FBDV/Elite 4.0S;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
